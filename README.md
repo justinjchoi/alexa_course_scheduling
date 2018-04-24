@@ -1,4 +1,4 @@
-First Amazon Alexa Project for CS 4740: Cloud Computing at the University of Virginia (UVA) 
+### First Amazon Alexa Skill Project
 
 Used python 2.7x for development and pymysql for database connection. 
 
