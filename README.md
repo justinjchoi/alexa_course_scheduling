@@ -1,4 +1,5 @@
 First Amazon Alexa Project for CS 4740: Cloud Computing at the University of Virginia (UVA) 
+
 Used python 2.7x for development and pymysql for database connection. 
 
 For Beginners, helpful tutorial: https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1
